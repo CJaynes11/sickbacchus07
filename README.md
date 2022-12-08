@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MerryBacchus
+- 👋 Hi, I’m Chris Jaynes
 - 👀 I’m interested in ...Web Design/develop and some OOP
 - 🌱 I’m currently learning ...HTML 5 and the various css, java, php etc. (wordpress mostly)
 - 💞️ I’m looking to collaborate on ...anything dealing with HTML and web design.
-- 📫 How to reach me ...email me @ themerrybacchus@gmail.com or look up Chris Jaynes on Linkedin
+- 📫 How to reach me ...email me @ cjaynes11@gmail.com or through Linkedin at https://www.linkedin.com/in/christopherjaynes12 
 - I am relatively new to online collabs, but have been dealing with code for several years. My experience shines mostly in seeing the details, troubleshooting,
   and patterns in things. Which translate well in coding, but may have its drawbacks, but less updates later!
 
